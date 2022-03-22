@@ -1,0 +1,13 @@
+{
+	"name": "Ecoin Finance",
+	"website": "https://ecoin-finance.com",
+	"description": "ECOIN is a decentralized & deflationary BEP20 token powered by 'BNB Chain' network that will be an online payment platform replacing conventional fiat currency through our integrated debit card. People around the world will be able to make easy, fast, and secure payments using your ECOIN balance.",
+	"explorer": "https://bscscan.com/token/0x7d38315b92d0E7A85B35B2b7FE969B25935619D7",
+	"type": "BEP20",
+	"symbol": "ECOIN",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x7d38315b92d0E7A85B35B2b7FE969B25935619D7",
+	"links":[{"twitter":"https://twitter.com/ecoin_finance_", "telegram":"https://t.me/Ecoin_token", "telegram_news":"https://t.me/EcoinFinanceOfficial", "whitepaper":"https://ecoin-finance.com/files/white-paper-ecoin-finance-v2.pdf", "medium":"https://medium.com/@ecoin.finance", "youtube":"https://youtube.com/c/ECoinFinance/videos", "facebook":"https://facebook.com/ecoin.finance", "coinmarketcap":"https://coinmarketcap.com/currencies/e-coin-finance/", "coingecko":"https://www.coingecko.com/en/coins/e-coin-finance", "source_code":"https://bscscan.com/address/0x7d38315b92d0e7a85b35b2b7fe969b25935619d7#code", "discord":"https://discord.com/invite/n5RK7JxDkX"}], 
+	"tags": "defi"
+}
